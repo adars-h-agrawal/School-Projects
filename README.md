@@ -1,28 +1,40 @@
-# 🎓 MIT Manipal Labs Repository
+# 🏫 School Projects - Birla High School (Python)
 
-This repository contains lab programs and exercises from various courses across different semesters at **MIT Manipal**. Each lab folder includes programs, exercises, and documentation for the respective subjects.
+This repository contains school projects developed during **Class 11 and 12**, demonstrating programming skills in **Python** using GUI, MySQL, and basic algorithms.
 
 ---
 
-## 📚 Lab Structure by Semester
+## 📂 Projects
 
-### **3rd Semester**
-- **Object Oriented Programming Lab (OOP)**: Programs in **Java** utilizing Object-Oriented Programming concepts.  
-- **Data Structures Lab (DS)**: Programs implementing basic data structures in **C++**.
+### 1. 🔄 Switch Game (Class 11)
+- A fun GUI game using **Tkinter**.
+- 🎯 Goal: Turn off all switches in 12 chances, while random changes happen.
+- 📌 Shows understanding of **loops, functions, GUI programming, randomization**.
 
-### **4th Semester**
-- **Database Systems Lab (DBS)**: Programs executed using **Visual Studio** for initial labs and **Oracle SQL** for query exercises.  
-- **Embedded Systems Lab (ES)**: Programs executed on **Keil µVision4**, **NXP LPC1768** using ARM Assembly and Embedded C.  
-- **Network Programming and Simulation Lab (NPS)**: Socket programming exercises performed on **Linux**, and network simulations conducted using **Cisco Packet Tracer**.
+👉 [View Code](./Switch-Game/switch_game.py)
 
-### **5th Semester**
-- **Information Security Lab (IS)**: Exercises related to cryptography, network security, and ethical hacking concepts.  
-- **Operating Systems Lab (OS)**: Lab exercises involving **shell commands**, process management, and file system operations using Git Bash and Linux.
+---
+
+### 2. 🏪 Electronic Shop Management System (Class 12)
+- A shop management software using **Python + MySQL**.
+- Features: Admin/customer login, inventory, billing, credit points.
+- 📌 Demonstrates **database handling, modular code, input validation**.
+
+👉 [View Code](./Shop-Management/shop_management.py)
+
+---
+
+## ⚙️ Tech Stack
+- **Languages:** Python  
+- **Libraries/Frameworks:** Tkinter, MySQL Connector  
+- **Concepts:** GUI, database CRUD operations, modular programming
+
+---
+
+## 👤 Author
+**Adarsh Agrawal**
 
 ---
 
 ## 📄 License
-This repository is distributed under the **MIT License**. See [LICENSE](./LICENSE) for more information.
-
----
-
+This project is licensed under the [MIT License](LICENSE).
