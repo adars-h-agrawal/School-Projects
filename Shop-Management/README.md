@@ -6,11 +6,11 @@ A simple, text-based management software for an electronic retail shop built usi
 
 ## 📂 Table of Contents
 
-1. [About the Project](#about-the-project)  
-2. [System Requirements](#system-requirements)  
-3. [How to Run](#how-to-run)  
-4. [Features](#features)   
-5. [License](#license)
+1. About the Project
+2. System Requirements
+3. How to Run
+4. Features   
+5. License
 
 ---
 
