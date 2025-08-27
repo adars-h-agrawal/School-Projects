@@ -32,11 +32,11 @@ However, beware ⚡ — after each move, one random switch might turn back on!
 ---
 
 ## 📂 Project Structure
-switch-game/
-├── switch_game.py     # Main game logic
-├── ON.png             # Switch ON image
-├── OFF.png            # Switch OFF image
-└── README.md          # Project documentation
+switch-game/      
+├── switch_game.py     # Main game logic   
+├── ON.png             # Switch ON image   
+├── OFF.png            # Switch OFF image   
+└── README.md          # Project documentation   
 
 ---
 
