@@ -45,8 +45,8 @@ switch-game/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/switch-game.git
-   cd switch-game
+   git clone https://github.com/adars-h-agrawal/School-Project.git
+   cd School-Project/Switch-Game
 2. Add your ON.png and OFF.png images to the project directory.
 3. Run the game:
    ```bash
